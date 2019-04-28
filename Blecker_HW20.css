@@ -1,0 +1,50 @@
+
+/*Project Name: Blecker_HW20.css
+Author: Emilie Blecker
+Date Last Modified: 4/24/2019*/
+
+/*Write the CSS for an id with the following attributes:
+ float to the left of the page, light tan background, 
+ Verdana or sans-serif large font, and 20 pixels of padding.*/
+
+#hw20q1
+{
+    float: left;
+    width: 200px;
+    background-color: #e8d9c5;
+    font-family: Verdana, sans-serif;
+    font-size: 60px;
+    padding: 20px 20px 20px 20px;
+}
+
+/*
+
+Write the CSS to configure a class that will produce a headline with a dotted line underneath it. 
+Choose a color that you like for the text and dotted line.
+*/
+
+.hw20q2
+{
+    font-size: 60px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: lightpink;
+    text-decoration-color: rgb(73, 106, 133);
+}
+
+/*
+Write the CSS for an id that will be absolutely positioned on a page 
+20 pixels from the top and 40 pixels from the right. 
+This area should have a light gray background and a solid border.
+*/
+
+#hw20q3
+{
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    background-color: lightgray;
+    border-style: solid;
+}
