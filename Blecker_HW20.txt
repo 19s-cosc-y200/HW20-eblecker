@@ -16,6 +16,7 @@ Date Last Modified: 4/24/2019*/
     font-size: 60px;
     padding: 20px 20px 20px 20px;
 }
+			font-size: large;
 
 /*
 
